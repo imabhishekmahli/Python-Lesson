@@ -1,0 +1,2 @@
+x="car"
+print(x)
